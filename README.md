@@ -1,4 +1,4 @@
-# RAPPORT DE FIN D’ETUDES 
+# RAPPORT DE STAGE DE FIN D’ETUDES 
 
 En vue de l’obtention du diplôme de Licence Appliquée en :
 Électronique, Électrotechnique et Automatique
