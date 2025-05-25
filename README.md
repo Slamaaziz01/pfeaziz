@@ -8,6 +8,7 @@ Option : Systèmes Embarqués
 Titre du projet :
 
 Étude et conception d’un design bloc d’un système de gestion de batterie (BMS) 1S pour une cellule lithium-ion
+
 Élaboré par :
 
 Mohamed Aziz Slama
