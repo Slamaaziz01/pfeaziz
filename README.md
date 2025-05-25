@@ -10,6 +10,7 @@ Mohamed Aziz Slama
 
 Encadré par :
 Landry Dzuakou – Responsable Technique – Département ECAD, InspireTech
+
 Ramzi Trabelsi – Institut Supérieur des Sciences Appliquées et de Technologie de Sousse
 
 Année Universitaire :  2025/2026
